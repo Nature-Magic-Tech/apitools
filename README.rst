@@ -11,7 +11,7 @@ client-side tools, especially those that talk to Google APIs.
 **NOTE**: This library is deprecated and unsupported. Please read below for suggested alternatives.
 
 Alternatives to apitools
------------------------
+------------------------
 For the official Cloud client libraries used to communicating with Google Cloud APIs, go to https://cloud.google.com/apis/docs/cloud-client-libraries.
 
 To generate Python API client libraries for APIs specified by protos, such as those inside Google, see https://github.com/googleapis/gapic-generator-python. 
